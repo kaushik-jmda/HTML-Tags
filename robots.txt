@@ -1,0 +1,103 @@
+# ============================================================================
+# robots.txt
+# Website: https://www.jmdanalytics.co.in/
+# Company: JMDA Analytics Pvt Ltd
+# Purpose: Search Engine Crawling Instructions
+# ============================================================================
+
+# Allow all major search engines
+User-agent: *
+Allow: /
+
+# ----------------------------------------------------------------------------
+# Block Django/System/Admin URLs
+# ----------------------------------------------------------------------------
+Disallow: /admin/
+Disallow: /accounts/
+Disallow: /login/
+Disallow: /logout/
+Disallow: /register/
+Disallow: /dashboard/
+Disallow: /profile/
+Disallow: /user/
+Disallow: /users/
+Disallow: /staff/
+Disallow: /employee/
+
+# ----------------------------------------------------------------------------
+# Authentication & API
+# ----------------------------------------------------------------------------
+Disallow: /api/
+Disallow: /api-auth/
+Disallow: /oauth/
+Disallow: /token/
+Disallow: /auth/
+
+# ----------------------------------------------------------------------------
+# Internal/Search/Temporary Pages
+# ----------------------------------------------------------------------------
+Disallow: /search/
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /draft/
+Disallow: /preview/
+Disallow: /private/
+Disallow: /internal/
+Disallow: /cache/
+Disallow: /backup/
+Disallow: /old/
+Disallow: /test/
+Disallow: /testing/
+Disallow: /sandbox/
+Disallow: /staging/
+
+# ----------------------------------------------------------------------------
+# Cart / Checkout (if applicable)
+# ----------------------------------------------------------------------------
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /payment/
+Disallow: /invoice/
+
+# ----------------------------------------------------------------------------
+# CGI & System Files
+# ----------------------------------------------------------------------------
+Disallow: /cgi-bin/
+Disallow: /includes/
+
+# ----------------------------------------------------------------------------
+# Query Parameters (optional - adjust if needed)
+# ----------------------------------------------------------------------------
+Disallow: /*?replytocom=
+Disallow: /*?sessionid=
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
+
+# ----------------------------------------------------------------------------
+# Allow Static Assets
+# ----------------------------------------------------------------------------
+Allow: /static/
+Allow: /media/
+Allow: /static/css/
+Allow: /static/js/
+Allow: /static/images/
+Allow: /media/uploads/
+
+# ----------------------------------------------------------------------------
+# Allow Important Files
+# ----------------------------------------------------------------------------
+Allow: /favicon.ico
+Allow: /robots.txt
+Allow: /sitemap.xml
+Allow: /site.webmanifest
+
+# ----------------------------------------------------------------------------
+# XML Sitemap
+# ----------------------------------------------------------------------------
+Sitemap: https://www.jmdanalytics.co.in/sitemap.xml
+
+# ----------------------------------------------------------------------------
+# Host (used by some crawlers; ignored by Google)
+# ----------------------------------------------------------------------------
+Host: https://www.jmdanalytics.co.in/
