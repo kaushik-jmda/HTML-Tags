@@ -1,0 +1,164 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"AboutPage",
+  "@id":"https://www.jmdanalytics.co.in/about/#aboutpage",
+  "url":"https://www.jmdanalytics.co.in/about/",
+  "name":"About JMDA Analytics",
+  "description":"Learn about JMDA Analytics Pvt Ltd, our mission, expertise, software development services, and commitment to digital transformation.",
+  "isPartOf":{
+    "@id":"https://www.jmdanalytics.co.in/#website"
+  },
+  "about":{
+    "@id":"https://www.jmdanalytics.co.in/#organization"
+  },
+  "primaryImageOfPage":{
+    "@type":"ImageObject",
+    "url":"https://www.jmdanalytics.co.in/static/images/about-banner.jpg"
+  },
+  "inLanguage":"en-IN"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "@id":"https://www.jmdanalytics.co.in/#organization",
+  "name":"JMDA Analytics Pvt Ltd",
+  "legalName":"JMDA Analytics Private Limited",
+  "url":"https://www.jmdanalytics.co.in/",
+  "logo":"https://www.jmdanalytics.co.in/static/images/logo.png",
+  "image":"https://www.jmdanalytics.co.in/static/images/og-image.jpg",
+  "description":"JMDA Analytics Pvt Ltd specializes in CRM, ERP, AI Automation, Custom Software Development, Mobile App Development, Cloud Solutions, IoT, and Business Intelligence.",
+  "telephone":"+91-9137826518",
+  "email":"mailto:kaushik@jmdanalytics.co.in",
+  "foundingLocation":{
+    "@type":"Place",
+    "name":"Mumbai, Maharashtra, India"
+  },
+  "sameAs":[
+    "https://www.linkedin.com/company/your-company",
+    "https://www.facebook.com/your-company",
+    "https://www.instagram.com/your-company",
+    "https://twitter.com/your-company",
+    "https://www.youtube.com/@your-company"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ProfessionalService",
+  "@id":"https://www.jmdanalytics.co.in/#professionalservice",
+  "name":"JMDA Analytics Pvt Ltd",
+  "url":"https://www.jmdanalytics.co.in/",
+  "telephone":"+91-9137826518",
+  "email":"kaushik@jmdanalytics.co.in",
+  "priceRange":"₹₹₹",
+  "address":{
+    "@type":"PostalAddress",
+    "addressLocality":"Mumbai",
+    "addressRegion":"Maharashtra",
+    "addressCountry":"IN"
+  },
+  "areaServed":[
+    "India",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "United States",
+    "United Kingdom"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "@id":"https://www.jmdanalytics.co.in/about/#webpage",
+  "url":"https://www.jmdanalytics.co.in/about/",
+  "name":"About Us",
+  "description":"About JMDA Analytics Pvt Ltd.",
+  "isPartOf":{
+    "@id":"https://www.jmdanalytics.co.in/#website"
+  },
+  "about":{
+    "@id":"https://www.jmdanalytics.co.in/#organization"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "@id":"https://www.jmdanalytics.co.in/about/#breadcrumb",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"https://www.jmdanalytics.co.in/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"About Us",
+      "item":"https://www.jmdanalytics.co.in/about/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "@id":"https://www.jmdanalytics.co.in/#founder",
+  "name":"Founder Name",
+  "jobTitle":"Founder & CEO",
+  "worksFor":{
+    "@id":"https://www.jmdanalytics.co.in/#organization"
+  },
+  "url":"https://www.jmdanalytics.co.in/about/",
+  "image":"https://www.jmdanalytics.co.in/static/images/founder.jpg"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"What does JMDA Analytics do?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"JMDA Analytics develops CRM, ERP, AI automation, mobile applications, web applications, cloud solutions, and custom enterprise software."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Where is JMDA Analytics located?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"JMDA Analytics is based in Mumbai, Maharashtra, India, and serves clients globally."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ImageObject",
+  "@id":"https://www.jmdanalytics.co.in/about/#image",
+  "contentUrl":"https://www.jmdanalytics.co.in/static/images/about-banner.jpg",
+  "caption":"JMDA Analytics Team"
+}
+</script>
+
