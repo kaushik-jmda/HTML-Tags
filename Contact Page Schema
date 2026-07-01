@@ -1,0 +1,174 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ContactPage",
+  "@id":"https://www.jmdanalytics.co.in/contact/#contactpage",
+  "url":"https://www.jmdanalytics.co.in/contact/",
+  "name":"Contact JMDA Analytics",
+  "description":"Contact JMDA Analytics for CRM, ERP, AI Automation, Custom Software Development, Mobile App Development, and IT Consulting.",
+  "isPartOf":{
+      "@id":"https://www.jmdanalytics.co.in/#website"
+  },
+  "about":{
+      "@id":"https://www.jmdanalytics.co.in/#organization"
+  },
+  "primaryImageOfPage":{
+      "@type":"ImageObject",
+      "url":"https://www.jmdanalytics.co.in/static/images/contact-banner.jpg"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"Organization",
+ "@id":"https://www.jmdanalytics.co.in/#organization",
+ "name":"JMDA Analytics Pvt Ltd",
+ "url":"https://www.jmdanalytics.co.in/",
+ "logo":"https://www.jmdanalytics.co.in/static/images/logo.png",
+ "image":"https://www.jmdanalytics.co.in/static/images/og-image.jpg",
+ "telephone":"+91-9137826518",
+ "email":"mailto:kaushik@jmdanalytics.co.in",
+ "sameAs":[
+   "https://www.linkedin.com/company/your-company",
+   "https://www.facebook.com/your-company",
+   "https://www.instagram.com/your-company",
+   "https://twitter.com/your-company",
+   "https://www.youtube.com/@your-company"
+ ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"ProfessionalService",
+ "@id":"https://www.jmdanalytics.co.in/#localbusiness",
+ "name":"JMDA Analytics Pvt Ltd",
+ "url":"https://www.jmdanalytics.co.in/",
+ "telephone":"+91-9137826518",
+ "email":"kaushik@jmdanalytics.co.in",
+ "priceRange":"₹₹₹",
+ "address":{
+   "@type":"PostalAddress",
+   "streetAddress":"YOUR STREET ADDRESS",
+   "addressLocality":"Mumbai",
+   "addressRegion":"Maharashtra",
+   "postalCode":"400000",
+   "addressCountry":"IN"
+ },
+ "geo":{
+   "@type":"GeoCoordinates",
+   "latitude":"19.0760",
+   "longitude":"72.8777"
+ },
+ "openingHoursSpecification":[
+   {
+     "@type":"OpeningHoursSpecification",
+     "dayOfWeek":[
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday"
+     ],
+     "opens":"09:30",
+     "closes":"18:30"
+   }
+ ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"Organization",
+ "contactPoint":[
+ {
+ "@type":"ContactPoint",
+ "contactType":"Sales",
+ "telephone":"+91-9137826518",
+ "email":"kaushik@jmdanalytics.co.in",
+ "areaServed":[
+   "IN",
+   "AE",
+   "US",
+   "GB"
+ ],
+ "availableLanguage":[
+   "English",
+   "Hindi"
+ ]
+ }
+ ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"BreadcrumbList",
+ "itemListElement":[
+ {
+ "@type":"ListItem",
+ "position":1,
+ "name":"Home",
+ "item":"https://www.jmdanalytics.co.in/"
+ },
+ {
+ "@type":"ListItem",
+ "position":2,
+ "name":"Contact",
+ "item":"https://www.jmdanalytics.co.in/contact/"
+ }
+ ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"WebPage",
+ "@id":"https://www.jmdanalytics.co.in/contact/#webpage",
+ "url":"https://www.jmdanalytics.co.in/contact/",
+ "name":"Contact Us",
+ "description":"Contact JMDA Analytics for software development and business automation solutions.",
+ "isPartOf":{
+   "@id":"https://www.jmdanalytics.co.in/#website"
+ },
+ "about":{
+   "@id":"https://www.jmdanalytics.co.in/#organization"
+ },
+ "breadcrumb":{
+   "@id":"https://www.jmdanalytics.co.in/contact/#breadcrumb"
+ }
+}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"FAQPage",
+ "mainEntity":[
+ {
+ "@type":"Question",
+ "name":"How can I contact JMDA Analytics?",
+ "acceptedAnswer":{
+ "@type":"Answer",
+ "text":"You can call +91 9137826518 or email kaushik@jmdanalytics.co.in."
+ }
+ },
+ {
+ "@type":"Question",
+ "name":"Do you provide online consultations?",
+ "acceptedAnswer":{
+ "@type":"Answer",
+ "text":"Yes, we provide online meetings and software demonstrations for clients worldwide."
+ }
+ }
+ ]
+}
+</script>
+
