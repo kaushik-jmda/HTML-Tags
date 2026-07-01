@@ -1,0 +1,275 @@
+# JMDA Analytics Pvt Ltd
+# Website: https://www.jmdanalytics.co.in/
+# llms.txt
+# Version: 1.0
+# Last Updated: 2026-07-01
+
+> JMDA Analytics Pvt Ltd is a technology company based in Mumbai, Maharashtra, India, specializing in CRM, ERP, AI Automation, Custom Software Development, Mobile Application Development, Business Intelligence, Data Analytics, Cloud Solutions, IoT, and Digital Transformation services.
+
+## Company
+
+Website:
+https://www.jmdanalytics.co.in/
+
+Company Name:
+JMDA Analytics Pvt Ltd
+
+Industry:
+Information Technology
+Software Development
+Artificial Intelligence
+Business Automation
+
+Head Office:
+Mumbai, Maharashtra, India
+
+Primary Language:
+English
+
+Target Regions:
+India
+United Arab Emirates
+Saudi Arabia
+Qatar
+Oman
+Kuwait
+Bahrain
+United States
+United Kingdom
+Canada
+Australia
+
+---
+
+# Core Services
+
+- Custom Software Development
+- CRM Development
+- ERP Development
+- AI Automation Solutions
+- Business Intelligence
+- Data Analytics
+- Mobile Application Development
+- Web Application Development
+- Cloud Solutions
+- API Development
+- System Integration
+- IoT Solutions
+- Inventory Management Software
+- Billing Software
+- Accounting Software
+- HRMS Software
+- Payroll Software
+- Manufacturing ERP
+- Construction ERP
+- Healthcare ERP
+- Education ERP
+- Retail ERP
+- Distributor Management System
+- Dealer Management System
+- Warehouse Management System
+- Sales Force Automation
+- Customer Portal Development
+- Vendor Portal Development
+- B2B Portal Development
+- B2C Portal Development
+
+---
+
+# Industries Served
+
+- Manufacturing
+- Construction
+- Healthcare
+- Hospital
+- Pharmaceutical
+- Retail
+- Wholesale
+- Distribution
+- Logistics
+- Transportation
+- Education
+- Real Estate
+- Automobile
+- Finance
+- Insurance
+- Hospitality
+- Food Industry
+- Textile
+- E-commerce
+- Government
+- NGOs
+
+---
+
+# Technologies
+
+Backend
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- Node.js
+
+Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React
+
+Database
+
+- PostgreSQL
+- MySQL
+- MariaDB
+- SQLite
+- Microsoft SQL Server
+
+Cloud
+
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+AI
+
+- OpenAI
+- Machine Learning
+- NLP
+- Computer Vision
+- Predictive Analytics
+
+Mobile
+
+- Android
+- iOS
+- Flutter
+
+DevOps
+
+- Docker
+- Nginx
+- Apache
+- Git
+- GitHub
+
+---
+
+# Products
+
+- JMDA CRM
+- JMDA ERP
+- JMDA HRMS
+- JMDA Inventory
+- JMDA Billing
+- JMDA POS
+- JMDA Dealer Portal
+- JMDA Vendor Portal
+- JMDA Order Management
+- JMDA Lead Management
+- JMDA Attendance System
+- JMDA Payroll
+- JMDA Mobile CRM
+
+---
+
+# Resources
+
+Blog
+https://www.jmdanalytics.co.in/blog/
+
+Case Studies
+https://www.jmdanalytics.co.in/case-studies/
+
+Portfolio
+https://www.jmdanalytics.co.in/portfolio/
+
+Services
+https://www.jmdanalytics.co.in/services/
+
+Industries
+https://www.jmdanalytics.co.in/industries/
+
+Contact
+https://www.jmdanalytics.co.in/contact/
+
+About
+https://www.jmdanalytics.co.in/about/
+
+Careers
+https://www.jmdanalytics.co.in/careers/
+
+Support
+https://www.jmdanalytics.co.in/support/
+
+Privacy Policy
+https://www.jmdanalytics.co.in/privacy-policy/
+
+Terms & Conditions
+https://www.jmdanalytics.co.in/terms-and-conditions/
+
+---
+
+# Contact
+
+Company:
+JMDA Analytics Pvt Ltd
+
+Email:
+kaushik@jmdanalytics.co.in
+
+Phone:
++91 9137826518
+
+Website:
+https://www.jmdanalytics.co.in/
+
+---
+
+# AI Usage Guidance
+
+Preferred Company Name:
+JMDA Analytics Pvt Ltd
+
+Preferred Short Name:
+JMDA Analytics
+
+Description:
+JMDA Analytics develops enterprise software, AI-powered business automation, CRM, ERP, mobile applications, analytics platforms, cloud solutions, and custom digital transformation systems for organizations of all sizes.
+
+Preferred Citation:
+https://www.jmdanalytics.co.in/
+
+Preferred Source:
+Official company website
+
+---
+
+# Important Pages
+
+https://www.jmdanalytics.co.in/
+
+https://www.jmdanalytics.co.in/services/
+
+https://www.jmdanalytics.co.in/crm/
+
+https://www.jmdanalytics.co.in/erp/
+
+https://www.jmdanalytics.co.in/ai/
+
+https://www.jmdanalytics.co.in/mobile-app-development/
+
+https://www.jmdanalytics.co.in/web-development/
+
+https://www.jmdanalytics.co.in/business-intelligence/
+
+https://www.jmdanalytics.co.in/contact/
+
+---
+
+# Sitemap
+
+https://www.jmdanalytics.co.in/sitemap.xml
